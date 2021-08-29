@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="CUSTOM_SCOPE_NAME" value="All Places" />
+    <option name="SHOW_STRUCTURE" value="true" />
+    <option name="FILE_MASK" value="requirements.txt,Pipfile,pyproject.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="288cfad0-80cc-4c96-a43d-06da9d227e73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
+  <component name="ProjectId" id="1xOfIyM2jaPFSdNHzVklK4XHcaE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WHITESOURCE_PRECOMMIT_ANALYSIS" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SultanAbuBaker\PycharmProjects\python_sultan_new" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python_sultan_new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="288cfad0-80cc-4c96-a43d-06da9d227e73" name="Default Changelist" comment="" />
+      <created>1630230981516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630230981516</updated>
+      <workItem from="1630231014620" duration="2275000" />
+      <workItem from="1630234279893" duration="19000" />
+      <workItem from="1630234402190" duration="26000" />
+      <workItem from="1630234499710" duration="31000" />
+      <workItem from="1630234560194" duration="352000" />
+      <workItem from="1630234966307" duration="14000" />
+      <workItem from="1630235115998" duration="443000" />
+      <workItem from="1630235608816" duration="602000" />
+      <workItem from="1630240873814" duration="154000" />
+      <workItem from="1630241037682" duration="41000" />
+      <workItem from="1630241087169" duration="53000" />
+      <workItem from="1630241242750" duration="37000" />
+      <workItem from="1630241359934" duration="610000" />
+      <workItem from="1630241992523" duration="13000" />
+      <workItem from="1630242023613" duration="30000" />
+      <workItem from="1630242071726" duration="1274000" />
+      <workItem from="1630243433782" duration="1766000" />
+      <workItem from="1630245233658" duration="210000" />
+    </task>
+    <task id="LOCAL-00001" summary="u">
+      <created>1630234099346</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630234099346</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ue">
+      <created>1630234319859</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630234319859</updated>
+    </task>
+    <task id="LOCAL-00003" summary="uew">
+      <created>1630234456762</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630234456762</updated>
+    </task>
+    <task id="LOCAL-00004" summary="uewg">
+      <created>1630234544710</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630234544710</updated>
+    </task>
+    <task id="LOCAL-00005" summary="uewga">
+      <created>1630234590067</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1630234590067</updated>
+    </task>
+    <task id="LOCAL-00006" summary="uewgaf">
+      <created>1630234603274</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1630234603274</updated>
+    </task>
+    <task id="LOCAL-00007" summary="uewgaf">
+      <created>1630241132842</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1630241132842</updated>
+    </task>
+    <task id="LOCAL-00008" summary="uewgaf">
+      <created>1630241256740</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1630241256740</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="u" />
+    <MESSAGE value="ue" />
+    <MESSAGE value="uew" />
+    <MESSAGE value="uewg" />
+    <MESSAGE value="uewga" />
+    <MESSAGE value="uewgaf" />
+    <option name="LAST_COMMIT_MESSAGE" value="uewgaf" />
+  </component>
+</project>

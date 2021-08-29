@@ -8,8 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="288cfad0-80cc-4c96-a43d-06da9d227e73" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/whitesource/projectService.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/whitesource/projectService.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +103,7 @@
       <workItem from="1630242023613" duration="30000" />
       <workItem from="1630242071726" duration="1274000" />
       <workItem from="1630243433782" duration="1766000" />
-      <workItem from="1630245233658" duration="406000" />
+      <workItem from="1630245233658" duration="447000" />
     </task>
     <task id="LOCAL-00001" summary="u">
       <created>1630234099346</created>
@@ -163,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630241256740</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="uewgaf">
+      <created>1630245657844</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1630245657844</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

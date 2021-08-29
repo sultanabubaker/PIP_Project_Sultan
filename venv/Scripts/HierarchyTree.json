@@ -1,0 +1,170 @@
+[
+    {
+        "key": "certifi",
+        "package_name": "certifi",
+        "installed_version": "2021.5.30",
+        "required_version": "2021.5.30",
+        "dependencies": []
+    },
+    {
+        "key": "charset-normalizer",
+        "package_name": "charset-normalizer",
+        "installed_version": "2.0.4",
+        "required_version": "2.0.4",
+        "dependencies": []
+    },
+    {
+        "key": "djangorestframework",
+        "package_name": "djangorestframework",
+        "installed_version": "3.11.1",
+        "required_version": "3.11.1",
+        "dependencies": [
+            {
+                "key": "django",
+                "package_name": "django",
+                "installed_version": "3.2",
+                "required_version": ">=1.11",
+                "dependencies": [
+                    {
+                        "key": "asgiref",
+                        "package_name": "asgiref",
+                        "installed_version": "3.4.1",
+                        "required_version": ">=3.3.2,<4",
+                        "dependencies": []
+                    },
+                    {
+                        "key": "pytz",
+                        "package_name": "pytz",
+                        "installed_version": "2021.1",
+                        "required_version": "Any",
+                        "dependencies": []
+                    },
+                    {
+                        "key": "sqlparse",
+                        "package_name": "sqlparse",
+                        "installed_version": "0.4.1",
+                        "required_version": ">=0.2.2",
+                        "dependencies": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "key": "idna",
+        "package_name": "idna",
+        "installed_version": "3.2",
+        "required_version": "3.2",
+        "dependencies": []
+    },
+    {
+        "key": "jinja2",
+        "package_name": "Jinja2",
+        "installed_version": "2.10",
+        "required_version": "2.10",
+        "dependencies": [
+            {
+                "key": "markupsafe",
+                "package_name": "MarkupSafe",
+                "installed_version": "2.0.1",
+                "required_version": ">=0.23",
+                "dependencies": []
+            }
+        ]
+    },
+    {
+        "key": "pipdeptree",
+        "package_name": "pipdeptree",
+        "installed_version": "2.1.0",
+        "required_version": "2.1.0",
+        "dependencies": [
+            {
+                "key": "pip",
+                "package_name": "pip",
+                "installed_version": "19.1",
+                "required_version": ">=6.0.0",
+                "dependencies": []
+            }
+        ]
+    },
+    {
+        "key": "pygithub",
+        "package_name": "PyGithub",
+        "installed_version": "1.53",
+        "required_version": "1.53",
+        "dependencies": [
+            {
+                "key": "deprecated",
+                "package_name": "deprecated",
+                "installed_version": "1.2.12",
+                "required_version": "Any",
+                "dependencies": [
+                    {
+                        "key": "wrapt",
+                        "package_name": "wrapt",
+                        "installed_version": "1.12.1",
+                        "required_version": ">=1.10,<2",
+                        "dependencies": []
+                    }
+                ]
+            },
+            {
+                "key": "pyjwt",
+                "package_name": "pyjwt",
+                "installed_version": "2.1.0",
+                "required_version": "Any",
+                "dependencies": []
+            },
+            {
+                "key": "requests",
+                "package_name": "requests",
+                "installed_version": "1.2.3",
+                "required_version": ">=2.14.0",
+                "dependencies": []
+            }
+        ]
+    },
+    {
+        "key": "python-gitlab",
+        "package_name": "python-gitlab",
+        "installed_version": "1.14.0",
+        "required_version": "1.14.0",
+        "dependencies": [
+            {
+                "key": "requests",
+                "package_name": "requests",
+                "installed_version": "1.2.3",
+                "required_version": ">=2.4.2",
+                "dependencies": []
+            },
+            {
+                "key": "six",
+                "package_name": "six",
+                "installed_version": "1.16.0",
+                "required_version": "Any",
+                "dependencies": []
+            }
+        ]
+    },
+    {
+        "key": "pyyaml",
+        "package_name": "PyYAML",
+        "installed_version": "5.3.1",
+        "required_version": "5.3.1",
+        "dependencies": []
+    },
+    {
+        "key": "setuptools",
+        "package_name": "setuptools",
+        "installed_version": "57.4.0",
+        "required_version": "57.4.0",
+        "dependencies": []
+    },
+    {
+        "key": "urllib3",
+        "package_name": "urllib3",
+        "installed_version": "1.24.3",
+        "required_version": "1.24.3",
+        "dependencies": []
+    }
+]

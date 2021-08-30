@@ -124,7 +124,7 @@
                     {
                         "key": "urllib3",
                         "package_name": "urllib3",
-                        "installed_version": "1.26.6",
+                        "installed_version": "1.24.3",
                         "required_version": ">=1.21.1,<1.27",
                         "dependencies": []
                     }
@@ -168,7 +168,7 @@
                     {
                         "key": "urllib3",
                         "package_name": "urllib3",
-                        "installed_version": "1.26.6",
+                        "installed_version": "1.24.3",
                         "required_version": ">=1.21.1,<1.27",
                         "dependencies": []
                     }
@@ -182,6 +182,13 @@
                 "dependencies": []
             }
         ]
+    },
+    {
+        "key": "pyyaml",
+        "package_name": "PyYAML",
+        "installed_version": "5.3.1",
+        "required_version": "5.3.1",
+        "dependencies": []
     },
     {
         "key": "setuptools",

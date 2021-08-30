@@ -119,17 +119,9 @@
             {
                 "key": "deprecated",
                 "package_name": "deprecated",
-                "installed_version": "1.2.12",
+                "installed_version": "?",
                 "required_version": "Any",
-                "dependencies": [
-                    {
-                        "key": "wrapt",
-                        "package_name": "wrapt",
-                        "installed_version": "1.12.1",
-                        "required_version": ">=1.10,<2",
-                        "dependencies": []
-                    }
-                ]
+                "dependencies": []
             },
             {
                 "key": "pyjwt",
@@ -239,6 +231,13 @@
         "package_name": "setuptools",
         "installed_version": "57.4.0",
         "required_version": "57.4.0",
+        "dependencies": []
+    },
+    {
+        "key": "wrapt",
+        "package_name": "wrapt",
+        "installed_version": "1.12.1",
+        "required_version": "1.12.1",
         "dependencies": []
     }
 ]

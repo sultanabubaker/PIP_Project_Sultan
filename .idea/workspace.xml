@@ -7,11 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="288cfad0-80cc-4c96-a43d-06da9d227e73" name="Default Changelist" comment="uewgaf">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/whitesource/IntellijUsageMetrics.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/whitesource/PyCharmUsageMetrics.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/whitesource/PyCharmUsageMetrics.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/whitesource/projectService.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/whitesource/projectService.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +24,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="2" />
   </component>
   <component name="ProjectId" id="1xOfIyM2jaPFSdNHzVklK4XHcaE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -113,7 +106,7 @@
       <workItem from="1630302314261" duration="1035000" />
       <workItem from="1630311591028" duration="24000" />
       <workItem from="1630311627148" duration="23000" />
-      <workItem from="1630311661139" duration="418000" />
+      <workItem from="1630311661139" duration="732000" />
     </task>
     <task id="LOCAL-00001" summary="u">
       <created>1630234099346</created>

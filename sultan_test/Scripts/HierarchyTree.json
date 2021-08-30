@@ -184,6 +184,13 @@
         ]
     },
     {
+        "key": "pyyaml",
+        "package_name": "PyYAML",
+        "installed_version": "5.3.1",
+        "required_version": "5.3.1",
+        "dependencies": []
+    },
+    {
         "key": "setuptools",
         "package_name": "setuptools",
         "installed_version": "57.4.0",

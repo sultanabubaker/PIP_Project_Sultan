@@ -52,6 +52,43 @@
         ]
     },
     {
+        "key": "oslo.i18n",
+        "package_name": "oslo.i18n",
+        "installed_version": "5.0.1",
+        "required_version": "5.0.1",
+        "dependencies": [
+            {
+                "key": "pbr",
+                "package_name": "pbr",
+                "installed_version": "5.6.0",
+                "required_version": ">=2.0.0,!=2.1.0",
+                "dependencies": []
+            },
+            {
+                "key": "six",
+                "package_name": "six",
+                "installed_version": "1.16.0",
+                "required_version": ">=1.10.0",
+                "dependencies": []
+            }
+        ]
+    },
+    {
+        "key": "packaging",
+        "package_name": "packaging",
+        "installed_version": "21.0",
+        "required_version": "21.0",
+        "dependencies": [
+            {
+                "key": "pyparsing",
+                "package_name": "pyparsing",
+                "installed_version": "2.4.7",
+                "required_version": ">=2.0.2",
+                "dependencies": []
+            }
+        ]
+    },
+    {
         "key": "pipdeptree",
         "package_name": "pipdeptree",
         "installed_version": "2.1.0",
@@ -65,6 +102,13 @@
                 "dependencies": []
             }
         ]
+    },
+    {
+        "key": "pycparser",
+        "package_name": "pycparser",
+        "installed_version": "2.20",
+        "required_version": "2.20",
+        "dependencies": []
     },
     {
         "key": "pygithub",
